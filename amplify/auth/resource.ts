@@ -9,8 +9,8 @@ export const auth = defineAuth({
                 clientId: secret('GOOGLE_CLIENT_ID'),
                 clientSecret: secret('GOOGLE_CLIENT_SECRET'),
             },
-            callbackUrls: ['http://localhost:3000/', 'https://clientes.maqden.com.br/'],
-            logoutUrls: ['http://localhost:3000/', 'https://clientes.maqden.com.br/'],
+            callbackUrls: ['http://localhost:3000/'],
+            logoutUrls: ['http://localhost:3000/'],
         },
     },
     userAttributes: {
