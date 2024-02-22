@@ -1,0 +1,27 @@
+{
+  "customers": [
+    { "name": "(IB) CALDOGNO EQUIPAMENTOS INDUSTRIAIS LTDA." },
+    { "name": "A PODEROSA LTDA IND. E COMÉRCIO DE EQUIPAMENTOS" },
+    { "name": "A. GUERRA S/A - IMPLEMENTOS RODOVIÁRIOS" },
+    { "name": "A. J. BORGHETTI & CIA. LTDA." },
+    { "name": "AAOL - AUTO AGRÍCOLA OESTE LTDA." },
+    { "name": "ABC - INDÚSTRIA E COMÉRCIO DE MÁQUINAS" },
+    { "name": "ABCM ELETROTECNICA LTDA" },
+    { "name": "ABDEL MÁQUINAS E EQUIPAMENTOS" },
+    { "name": "ABP EQUIPAMENTOS LTDA." },
+    { "name": "ABRASCORT COM. IMPORTADORA DE CORRENTES LTDA" },
+    { "name": "ABRASSER FERRAMENTAS" },
+    { "name": "ABRAZAN COMÉRCIO DE ABRASIVOS, FERRAMENTAS E MÁQUINAS LTDA." },
+    { "name": "AC MONTAGEM INDUSTRIAL" },
+    { "name": "AC&A DO BRASIL" },
+    { "name": "ACE SCHMERSAL - ELETROELETRONICA INDÚSTRIAL LTDA." },
+    { "name": "ACIFER - COM. DE SUCATAS E METAIS LTDA." },
+    { "name": "AÇO E FERRO COLMÉIA LTDA." },
+    { "name": "AÇO GRATO - IND. DE ARTEFATOS DE ARAME LTDA." },
+    { "name": "AÇO INÓX DO BRASIL" }
+
+  ],
+  "profile": {
+    "name": "Renato Dehnhardt"
+  }
+}
